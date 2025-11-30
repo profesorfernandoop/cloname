@@ -4,7 +4,7 @@ Para poner texto en cursiva uso "\*asteriscos envolviendo al texto*". Esto es un
 
 Voy a crear una tabla
 | DNI | NOMBRE |
-| --------------: | :--------------------------------------------: |
+| --------------: | :-------------------------------------------- |
 | 412 | Luis Ramos |
 | 459123 |José Francisco Ruiz Álvarez |
 | 123456H |Antonio Salvador García Márquez |

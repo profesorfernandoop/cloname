@@ -6,3 +6,4 @@ Voy a crear una tabla
 | DNI | NOMBRE |
 | --------------: | :--------------------------------------------: |
 | 412 | Luis Ramos |
+| 459123 |José Francisco Ruiz Álvarez |

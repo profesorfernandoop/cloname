@@ -4,5 +4,5 @@ Para poner texto en cursiva uso "\*asteriscos envolviendo al texto*". Esto es un
 
 Voy a crear una tabla
 | DNI | NOMBRE |
-| -------- | -------- |
+| --------------: | :--------------------------------------------: |
 | 412 | Luis Ramos |

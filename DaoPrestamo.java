@@ -1,1 +1,3 @@
-Codigo de la clase DaoPrestamo.java
+public interface DaoPrestamo {
+    void registrarPrestamo(Prestamo prestamo);
+}

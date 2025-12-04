@@ -4,3 +4,5 @@ Después de hacer git fetch hay que ejecutar git pull
 Desde la linea punteada, el cambio es local. 
 Pero lo subiremos al repositorio remoto con git push
 -----------------------------------------------------------------
+Asumo que estoy en rama main.
+Consulto estado en otras ramas.

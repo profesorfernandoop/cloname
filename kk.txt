@@ -1,5 +1,0 @@
-Cambio el contenido de kk.txt
-A continuación, confirmaré este cambio en mi repositorio
-local.Para fusionar el cambio en mi rama.
-Una vez hecho esto, usaremos git status para ver como queda
-el remoto con respecto al local.
